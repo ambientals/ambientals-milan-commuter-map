@@ -2,7 +2,7 @@
 
 This project was inspired by the need to visualize access to mobility and housing in Milan and its surroundings from the perspective of the commuter workforce dependent on public transport. The goal is to assist in choosing a place to live, considering commutes of up to 40 minutes to Milan. The maps exclude internal routes within Milan, cities without railway stations, and routes from neighboring cities exceeding the 40-minute time limit.
 
-Currently, the project is incomplete, notably missing the new Blue metro line of Milan. Future updates will include an automated data flow, ensuring updated information, as well as maps and dashboards that incorporate the new Blue line.
+Currently, the project is incomplete, notably the static maps are missing the Blue metro line of Milan, while the dashboards are yet on a demo version. Future updates will include an automated data flow, ensuring updated information, as well as maps and dashboards that incorporate the Blue line.
 
 ## Data sources and technologies
 Public transportation info was sourced from the *TravelTime* API, while housing info was gathered from various real estate web portals. A data cleaning, analysis, and visualization process was implemented using the following technologies:
